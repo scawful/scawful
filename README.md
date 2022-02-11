@@ -1,16 +1,15 @@
-### Hi there 👋
+## Justin Scofield
 
-<!--
-**scawful/scawful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ Major Projects:
+  - Premia: Financial risk analysis program
+  - Delta Seeker: Machine learning stock predictions
+  - Oracle of Secrets: SNES ROM hack
 
-Here are some ideas to get you started:
++ Interests:
+  - Financial markets
+  - Homebrew development
+  - Cloud computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Websites:
+  - ![zeniea.com](https://zeniea.com) - message board based on ZEN3MP repo
+  - ![halext.org](https://halext.org) - personal blog and smaller projects
