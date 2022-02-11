@@ -1,5 +1,3 @@
-## Justin Scofield
-
 + Major Projects:
   - Premia: Financial risk analysis program
   - Delta Seeker: Machine learning stock predictions
