@@ -1,6 +1,4 @@
 **Major Projects**
-  + Premia: Financial risk analysis program
-  + Delta Seeker: Machine learning stock predictions
   + Oracle of Secrets: SNES ROM hack
 
 **Interests**
