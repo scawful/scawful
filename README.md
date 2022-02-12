@@ -8,5 +8,5 @@
   + Assembly languages (65816, PowerPC, x86)
 
 **Websites**
-  + ![zeniea.com](https://zeniea.com/) - message board based on ZEN3MP repo
-  + ![halext.org](https://halext.org/) - personal blog and smaller projects
+  + https://zeniea.com/ - message board based on ZEN3MP repo
+  + https://halext.org/ - personal blog and smaller projects
