@@ -3,9 +3,8 @@
 
 **Interests**
   + Financial markets 
-  + Homebrew development (devKitPro)
+  + Homebrew development (devKitPro, 65816)
   + Cloud computing (Azure, GCP)
-  + Assembly languages (65816, PowerPC, x86)
 
 **Websites**
   + https://zeniea.com/ - message board based on ZEN3MP repo
