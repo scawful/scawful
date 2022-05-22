@@ -4,7 +4,7 @@
 **Interests**
   + Financial markets 
   + Homebrew development (devKitPro, 65816)
-  + Cloud computing (Azure, GCP)
+  + Cloud computing (Google Cloud)
 
 **Websites**
   + https://zeniea.com/ - message board based on ZEN3MP repo
