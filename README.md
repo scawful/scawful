@@ -1,6 +1,3 @@
-### Software Engineer Intern at Google
----
-
 **Personal Projects**
   + Oracle of Secrets: SNES ROM hack
   + Premia: Stock Trading Client
