@@ -29,7 +29,20 @@ A specialized fork of Mesen2 prioritized for instrumentation and automation.
 A native C++/ImGui editor and debugger for Zelda 3.
 - **Integration**: Embeds `z3dk` and `mesen` components for a unified workflow.
 
+#### 🧠 [Agentic File System (AFS)](https://github.com/scawful/afs)
+> *Everything is Context.*
+An experimental orchestration layer for managing multi-agent swarms and context loops directly within the filesystem.
+- **Status**: Research / Lab
+- **Concept**: Mounting documentation, tools, and memory as active file nodes for AI agents to "live" in the repo.
+
 ---
 
 ### 🌐 Links
 - **Blog & Labs**: [halext.org](https://halext.org/)
+
+---
+
+### 💼 Professional
+I work on **[Customer Experience Insights](https://docs.cloud.google.com/contact-center/insights/docs)** at Google. I use this account for both professional contributions (e.g., Terraform for Insights) and my personal hobby projects.
+
+> *Disclaimer: This is a personal account. All opinions, personal code, and hobby projects are my own and do not reflect the views or plans of Google.*
